@@ -1,0 +1,381 @@
+{
+	"Disciplinas" : 
+	{
+		"arte" : 
+		{
+			"cargaHoraria" : 2,
+			"professor" : "jessica"
+		},
+		"ciencias1" : 
+		{
+			"cargaHoraria" : 3,
+			"professor" : "jessica"
+		},
+		"emocional" : 
+		{
+			"cargaHoraria" : 1,
+			"professor" : "juliana"
+		},
+		"geografia" : 
+		{
+			"cargaHoraria" : 2,
+			"professor" : "jadson"
+		},
+		"historia" : 
+		{
+			"cargaHoraria" : 3,
+			"professor" : "jadson"
+		},
+		"ingles" : 
+		{
+			"cargaHoraria" : 2,
+			"professor" : "lourenco"
+		},
+		"matematica" : 
+		{
+			"cargaHoraria" : 6,
+			"professor" : "laudjane"
+		},
+		"portugues" : 
+		{
+			"cargaHoraria" : 6,
+			"professor" : "edwalquiria"
+		}
+	},
+	"Professores" : 
+	{
+		"edwalquiria" : 
+		{
+			"agenda" : 
+			{
+				"Quarta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Quinta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Segunda" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Sexta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Terca" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				]
+			},
+			"numeroDeAulas" : 5
+		},
+		"jadson" : 
+		{
+			"agenda" : 
+			{
+				"Quarta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Quinta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Segunda" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Sexta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Terca" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				]
+			},
+			"numeroDeAulas" : 5
+		},
+		"jessica" : 
+		{
+			"agenda" : 
+			{
+				"Quarta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Quinta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Segunda" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Sexta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Terca" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				]
+			},
+			"numeroDeAulas" : 5
+		},
+		"juliana" : 
+		{
+			"agenda" : 
+			{
+				"Quarta" : 
+				[
+					false,
+					false,
+					false,
+					false,
+					false
+				],
+				"Quinta" : 
+				[
+					false,
+					false,
+					false,
+					false,
+					false
+				],
+				"Segunda" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Sexta" : 
+				[
+					false,
+					false,
+					false,
+					false,
+					false
+				],
+				"Terca" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				]
+			},
+			"numeroDeAulas" : 5
+		},
+		"laudjane" : 
+		{
+			"agenda" : 
+			{
+				"Quarta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Quinta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Segunda" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Sexta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Terca" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				]
+			},
+			"numeroDeAulas" : 5
+		},
+		"lourenco" : 
+		{
+			"agenda" : 
+			{
+				"Quarta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Quinta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Segunda" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Sexta" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				],
+				"Terca" : 
+				[
+					true,
+					true,
+					true,
+					true,
+					true
+				]
+			},
+			"numeroDeAulas" : 5
+		}
+	},
+	"Turmas" : 
+	{
+		"6a_Serie" : 
+		{
+			"agenda" : 
+			{
+				"Quarta" : 
+				[
+					"historia",
+					"historia",
+					"portugues",
+					"arte",
+					"matematica"
+				],
+				"Quinta" : 
+				[
+					"matematica",
+					"matematica",
+					"ciencias1",
+					"portugues",
+					"portugues"
+				],
+				"Segunda" : 
+				[
+					"geografia",
+					"geografia",
+					"matematica",
+					"matematica",
+					"arte"
+				],
+				"Sexta" : 
+				[
+					"emocional",
+					"matematica",
+					"portugues",
+					"ingles",
+					"ingles"
+				],
+				"Terca" : 
+				[
+					"portugues",
+					"portugues",
+					"ciencias1",
+					"ciencias1",
+					"historia"
+				]
+			},
+			"aulasPorDia" : 5,
+			"diasDeAula" : 5
+		}
+	}
+}
